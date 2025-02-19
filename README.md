@@ -8,6 +8,10 @@
 JsonPatchSupport.AspNetCore is a lightweight package that enables JSON Patch support in ASP.NET Core using the
 Newtonsoft.Json library, allowing simple partial updates with minimal configuration.
 
+For more details, visit the related blog post:
+[ASP.NET Core JSON Patch API Example](https://www.ruyut.com/2025/02/aspnet-core-json-patch-api.html)
+(written in Traditional Chinese).
+
 ## Installation
 
 Install the package via .NET CLI:
